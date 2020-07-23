@@ -1,4 +1,5 @@
 ## 💻 Projeto - Ecoleta 
+[![HitCount](https://hits.dwyl.com/phprograming/nlw-01.svg)](https://hits.dwyl.com/phprograming/nlw-01)
 
 <h1 align="center">
     <img alt="Example" title="Example" src=".github/capa.svg" width="450px" />
