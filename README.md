@@ -1,7 +1,7 @@
 ## 💻 Projeto - Ecoleta 
 
 
-![ecoleta](ecoleta.JPG)
+![ecoleta](ECOLETA.PNG)
 
 O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
 
